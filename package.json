@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/jacklehamster/mix#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "cors": "^2.8.4",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "request": "^2.87.0"
   }
 }
